@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(230,218,166 );
+    font-size: 19px;
+    
+
+}
+
+.b {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.r {
+    font-weight: 550;
+}
+
+.w {
+    font-weight: 550;
+}
