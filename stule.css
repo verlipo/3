@@ -19,3 +19,8 @@ body {
 .w {
     font-weight: 550;
 }
+
+img {
+    width: 30px;
+    height: 30px;
+}
