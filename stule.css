@@ -6,6 +6,7 @@ body {
 }
 
 .b {
+    font-weight: 550;
     font-size: 30px;
     display: flex;
     justify-content: center;
